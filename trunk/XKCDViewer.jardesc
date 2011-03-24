@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="jar/XKCDViewer.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/XKCDViewer/XKCDViewer.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=XKCDViewer/src&lt;org.burre{XKCDFrame.java[XKCDFrame" manifestLocation="/XKCDViewer/Manifest.mf" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/XKCDViewer/.classpath"/>
+        <file path="/XKCDViewer/.project"/>
+        <javaElement handleIdentifier="=XKCDViewer/src"/>
+    </selectedElements>
+</jardesc>
